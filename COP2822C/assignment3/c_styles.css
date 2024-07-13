@@ -1,0 +1,54 @@
+/*
+   New Perspectives on HTML
+   Tutorial 3
+   Case Problem 1
+
+   ICI Text and Color Styles
+   Author: Hisham Gannouni
+   Date:   02/28/24
+
+   Filename:         c_styles.css
+   Supporting Files: none
+
+*/
+/* Body Styles */
+body {
+background-color: black;
+color: white;
+font-family: Century Gothic, sans-serif;
+}
+
+/* Header Styles */
+header h1 {
+color: yellow;
+font-family: Courier New, Courier;
+font-size: 28px;
+letter-spacing: 20px;
+text-align: center;
+}
+
+/* Article Styles */
+article h2 {
+font-size: 24px;
+font-weight: normal;
+letter-spacing: 5px;
+}
+
+article p {
+text-align: justify;
+}
+/* Article "Keyword" Style */
+strong.keyword {
+color: yellow;
+font-weight: normal;
+}
+
+/* Footer Styles */	
+footer p {
+text-align: center;
+}
+
+/* Image Styles */
+#locks {
+border: 0px none;
+}
