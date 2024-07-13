@@ -1,4 +1,4 @@
-# my-web-dev-college-work
+# My Web Dev College Work
 This is a collection of webpages that I completed during my time in college studying Web Development.
 
 You can preview this project page at:
